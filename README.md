@@ -1,6 +1,6 @@
 ### `Overview:`
 
-`this NLP-Library for Common Tasks in NLP, Using some helpers like Gensim, NLTK, re for some text processing and some specific tasks, I like doing some Information Retreival specilly Summarization.`
+`this NLP-Library for Common Tasks in NLP, Using some helpers like Gensim, NLTK, re for some text processing and some specific tasks, I like doing some Information Retreival specially Summarization.`
 
 ___
 
